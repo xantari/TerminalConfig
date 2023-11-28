@@ -14,3 +14,4 @@ https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/ab
 
 NOTE: Monospaced font works best in the terminal, if you use a different font some of the icons get condensed together
 NOTE 2: https://github.com/JanDeDobbeleer/oh-my-posh/issues/4494#issuecomment-1829255612, had to include "patch_pwsh_bleed" to work around a powershell bug
+NOTE 3: [Console]::OutputEncoding = [Text.Encoding]::UTF8 is now required for Powershell 7.4.0: https://github.com/JanDeDobbeleer/oh-my-posh/issues/4499
