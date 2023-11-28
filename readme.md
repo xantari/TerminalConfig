@@ -13,3 +13,4 @@ Reference:
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.4
 
 NOTE: Monospaced font works best in the terminal, if you use a different font some of the icons get condensed together
+NOTE 2: https://github.com/JanDeDobbeleer/oh-my-posh/issues/4494#issuecomment-1829255612, had to include "patch_pwsh_bleed" to work around a powershell bug
