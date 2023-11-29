@@ -2,7 +2,7 @@ Notes for future self:
 
 1. Install powershell 7
 2. Install Oh My Posh
-3. Install Nerd Fonts (Caskaydia Cove): https://www.nerdfonts.com/font-downloads - 3.0.0 seems to be best, 3.1.1 didn't render all fonts at time of this writing.
+3. Install Nerd Fonts (Caskaydia Cove): https://www.nerdfonts.com/font-downloads
 4. Download Repo to somewhere (C:\TFS\TerminalConfig is where I put it)
 5. Copy the Profile.ps1 file from the repo to $PSHOME\Profile.ps1 
 6. Reboot (or restart the windows font cache service)
